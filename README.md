@@ -139,3 +139,17 @@ npm run dev
 ```sh
 npm run build
 ```
+## 🛠️ Setup Instructions
+
+### Prerequisites
+- Docker Engine 20.10+
+- Docker Compose 2.12+
+- AWS EC2 Ubuntu 22.04 LTS (t2.micro)
+
+### Deployment Steps
+
+1. **Clone the repository**:
+   
+   git clone https://github.com/kamulizila/cs421_assignment4.git
+   
+   cd cs421_assignment4
