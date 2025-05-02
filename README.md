@@ -20,7 +20,7 @@ This assignment implements a high-availability frontend for the university API (
 ## Setup Instructions
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/kamulizila/cs421_assignment4.git
 
 cd cs421_assignment4
